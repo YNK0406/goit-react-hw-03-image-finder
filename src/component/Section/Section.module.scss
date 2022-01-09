@@ -1,0 +1,19 @@
+.Section {
+   margin: 0 auto;
+   padding: 0;
+   text-align: center;
+
+}
+
+   .Conteiner {
+   display: flex;
+   flex-direction: column;
+   margin-left: auto;
+   margin-right: auto;
+   width: 320px;
+   height: 100%;
+
+   overflow: hidden;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background-color: blanchedalmond;
+   }
