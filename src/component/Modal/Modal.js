@@ -26,7 +26,7 @@ export default class Modal extends Component {
   return createPortal(
     <div className={s.Overlay} onClick={this.handleClickOverlay}>
     <div className={s.Modal}>
-      <h1>adfcadvdavsdavsv </h1><img src="" alt="" />
+       <img src="" alt="" />
     </div>
   </div>,
   modalRoot,

@@ -5,6 +5,9 @@ import ImageGallery from "./component/ImageGallery/ImageGallery";
 import Modal from "./component/Modal/Modal";
 import Button from "./component/Button/Button";
 import Section from "./component/Section/Section";
+import {ReactComponent as SearchIcon} from ".  /icons/search.svg";
+
+
 export default class App extends React.Component {
   state= {
     showModal:false
@@ -23,7 +26,9 @@ export default class App extends React.Component {
     return(
      <>
       <Section>
-        <SearchBar/>
+        <SearchBar>
+        <SearchIcon width='20' height='20'/>
+        </SearchBar>
       </Section> 
       <Section>
         <ImageGallery/>
