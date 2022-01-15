@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,QAAQ,CAAC;EACP,MAAM,EAAE,SAAS;EACjB,OAAO,EAAE,MAAM;EACf,UAAU,EAAE,MAAM;CACnB;;AAED,AAAA,UAAU,CAAC;EACT,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,OAAO,EAAE,SAAS;EAClB,aAAa,EAAE,IAAI;EACnB,QAAQ,EAAE,MAAM;EAChB,gBAAgB,EAAE,IAAI;EACtB,KAAK,EAAE,MAAM;CACd",
+    "sources": [
+        "../src/components/Section/Section.module.scss"
+    ],
+    "names": [],
+    "file": "Section.module.css"
+}
